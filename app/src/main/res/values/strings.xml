@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TouchPilot</string>
+    <string name="accessibility_description">Runs touch gestures at user-selected screen positions in the selected app.</string>
+</resources>
